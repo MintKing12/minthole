@@ -1,4 +1,4 @@
-# Title: mintking12 - Blocklist with denied domains
+# Title: mintking12 - Blocklist with allowed domains
 # Issue tracker: https://github.com/mintking12/minthole
 # Homepage: https://github.com/mintking12/minthole
 # Description: Blocklist
@@ -9,3 +9,12 @@ revancedapp.io
 reddit.com
 rutracker.org
 tweakers.net
+api.glb.samsung-gamelauncher.com
+cambridge.org
+sspapi-prd.samsungrs.com
+safebrowsing.google.com
+news.google.com
+bol.com
+surfshark.net
+revanced.net
+xvideos.com
