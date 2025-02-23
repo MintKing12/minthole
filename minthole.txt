@@ -12,4 +12,4 @@
 0.0.0.0 telegraaf.nl
 0.0.0.0 parool.nl
 0.0.0.0 scorecardresearch.com
-0.0.0.0 static.libsyn.com
+0.0.0.0 trouw.nl
