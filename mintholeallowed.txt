@@ -4,7 +4,6 @@
 # Description: Blocklist
 revancedapk.org
 discord.com
-www.xvideos.com
 revancedextended.com
 revancedapp.io
-www.kinky.nl
+reddit.com
