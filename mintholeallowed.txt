@@ -7,3 +7,8 @@ discord.com
 revancedextended.com
 revancedapp.io
 reddit.com
+api.glb.samsung-gamelauncher.com
+sspapi-prd.samsungrs.com
+rutracker.org
+tweakers.net
+cambridge.org
