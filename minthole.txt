@@ -1,6 +1,14 @@
-# Title: mintking12 - Blocklist
+# Title: mintking12 - Blocklist with denied domains
 # Issue tracker: https://github.com/mintking12/minthole
 # Homepage: https://github.com/mintking12/minthole
 # Description: Blocklist
 0.0.0.0 nu.nl
 0.0.0.0 smartocto.com
+0.0.0.0 ojrg.com
+0.0.0.0 js.sentry-cdn.com
+0.0.0.0 static.hotjar.com
+0.0.0.0 ad.nl
+0.0.0.0 nos.nl
+0.0.0.0 telegraaf.nl
+0.0.0.0 parool.nl
+0.0.0.0 scorecardresearch.com
