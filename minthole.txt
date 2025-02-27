@@ -13,4 +13,6 @@
 0.0.0.0 parool.nl
 0.0.0.0 scorecardresearch.com
 0.0.0.0 trouw.nl
+0.0.0.0 www.trouw.nl
 0.0.0.0 rtl.nl
+0.0.0.0 www.rtl.nl
