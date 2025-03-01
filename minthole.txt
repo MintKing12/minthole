@@ -8,6 +8,7 @@
 0.0.0.0 js.sentry-cdn.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 ad.nl
+0.0.0.0 www.ad.nl
 0.0.0.0 nos.nl
 0.0.0.0 telegraaf.nl
 0.0.0.0 parool.nl
