@@ -17,3 +17,4 @@ news.google.com
 bol.com
 surfshark.net
 revanced.net
+bromite.org
