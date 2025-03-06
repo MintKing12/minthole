@@ -22,3 +22,6 @@
 0.0.0.0 www.trouw.nl
 0.0.0.0 rtl.nl
 0.0.0.0 www.rtl.nl
+0.0.0.0 androidattestationvalidation-pa.googleapis.com
+0.0.0.0 searchnotifications-pa.googleapis.com
+0.0.0.0 proactivebackend-pa.googleapis.com
