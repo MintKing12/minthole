@@ -25,3 +25,4 @@
 0.0.0.0 androidattestationvalidation-pa.googleapis.com
 0.0.0.0 searchnotifications-pa.googleapis.com
 0.0.0.0 proactivebackend-pa.googleapis.com
+0.0.0.0 mobileconfiguration-pa.googleapis.com
