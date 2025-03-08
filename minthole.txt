@@ -15,7 +15,6 @@
 0.0.0.0 www.telegraaf.nl
 0.0.0.0 parool.nl
 0.0.0.0 www.parool.nl
-0.0.0.0 scorecardresearch.com
 0.0.0.0 trouw.nl
 0.0.0.0 www.trouw.nl
 0.0.0.0 rtl.nl
@@ -36,3 +35,4 @@
 0.0.0.0 ojrg.com
 0.0.0.0 js.sentry-cdn.com
 0.0.0.0 static.hotjar.com
+0.0.0.0 scorecardresearch.com
