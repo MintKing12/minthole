@@ -1,25 +1,34 @@
-# Title: mintking12 - Blocklist with allowed domains
+# Title: mintking12 - Pihole list with allowed domains
 # Issue tracker: https://github.com/mintking12/minthole
 # Homepage: https://github.com/mintking12/minthole
 # Description: Allowed list
-# edited: March 15, 2025
+# edited: March 16, 2025
+#
+# Toestaan van alternatieve YT apps voor android
+#
 revancedapk.org
-discord.com
 revancedextended.com
 revancedapp.io
-reddit.com
-rutracker.org
-tweakers.net
+revanced.net
+#
+# Wat onschuldige Samsung domeinen
 api.glb.samsung-gamelauncher.com
-cambridge.org
 sspapi-prd.samsungrs.com
+#
+# Algemene domeinen die voor overlast zorgen als ze geblokkeerd worden
+#
+cambridge.org
+tweakers.net
 safebrowsing.google.com
 news.google.com
 bol.com
 surfshark.net
-revanced.net
+discord.com
 bromite.org
 www.bromite.org
 click.edm.postnl.nl
 screenrant.com
 improving.duckduckgo.com
+display.ugc.bazaarvoice.com
+reddit.com
+rutracker.org
