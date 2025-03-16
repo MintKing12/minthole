@@ -2,9 +2,10 @@
 # Issue tracker: https://github.com/mintking12/minthole
 # Homepage: https://github.com/mintking12/minthole
 # Description: Blocklist
-# edited: march 08, '25
+# edited: march 16, '25
 #
 # Block kul nieuwssites
+#
 0.0.0.0 nu.nl
 0.0.0.0 www.nu.nl
 0.0.0.0 ad.nl
@@ -20,19 +21,11 @@
 0.0.0.0 rtl.nl
 0.0.0.0 www.rtl.nl
 #
-# Block google spiders
-#
-0.0.0.0 androidattestationvalidation-pa.googleapis.com
-0.0.0.0 searchnotifications-pa.googleapis.com
-0.0.0.0 proactivebackend-pa.googleapis.com
-0.0.0.0 mobileconfiguration-pa.googleapis.com
-0.0.0.0 static.wixstatic.com
-0.0.0.0 connectivitycheck.gstatic.com
-0.0.0.0 chromesyncentities-pa.googleapis.com
-#
 # Block wat randmom meekijkers
+#
 0.0.0.0 smartocto.com
 0.0.0.0 ojrg.com
 0.0.0.0 js.sentry-cdn.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 scorecardresearch.com
+0.0.0.0 static.wixstatic.com
