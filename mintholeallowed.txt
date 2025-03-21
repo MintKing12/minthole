@@ -24,6 +24,7 @@ p3a-creative.brave.com
 p3a-json.brave.com
 patterns.wdp.brave.com
 collector.wdp.brave.com
+quorum.wdp.brave.com
 #
 # Algemene domeinen die voor overlast zorgen als ze geblokkeerd worden
 #
