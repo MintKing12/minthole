@@ -27,6 +27,7 @@ collector.wdp.brave.com
 quorum.wdp.brave.com
 star-randsrv.bsg.brave.com
 collector.bsg.brave.com
+star.wdp.brave.com
 #
 # Algemene domeinen die voor overlast zorgen als ze geblokkeerd worden
 #
