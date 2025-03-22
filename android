@@ -2,7 +2,7 @@
 # Issue tracker: https://github.com/mintking12/minthole
 # Homepage: https://github.com/mintking12/minthole
 # Description: Blocklist
-# edited: march 21, '25 13:27h
+# edited: march 22, '25 13:27h
 #
 # Block google spiders
 #
@@ -15,3 +15,4 @@
 0.0.0.0 notifications-pa.googleapis.com
 0.0.0.0 nearbypresence-pa.googleapis.com
 0.0.0.0 spot-pa.googleapis.com
+0.0.0.0 googleonebackup-pa.googleapis.com
