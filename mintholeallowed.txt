@@ -50,3 +50,4 @@ improving.duckduckgo.com
 display.ugc.bazaarvoice.com
 reddit.com
 rutracker.org
+eu2.thunderhead.com
