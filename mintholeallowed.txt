@@ -52,3 +52,4 @@ reddit.com
 rutracker.org
 eu2.thunderhead.com
 ws.audioscrobbler.com
+broker.nxtid.nl
