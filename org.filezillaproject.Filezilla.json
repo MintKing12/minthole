@@ -1,0 +1,96 @@
+{
+    "id": "org.filezillaproject.Filezilla",
+    "runtime": "org.gnome.Platform",
+    "runtime-version": "3.68.1",
+    "sdk": "org.gnome.Sdk",
+    "command": "filezilla",
+    "rename-icon": "filezilla",
+    "copy-icon": true,
+    "rename-desktop-file": "filezilla.desktop",
+    "rename-appdata-file": "filezilla.appdata.xml",
+    "finish-args": [
+            "--share=ipc", "--socket=x11",
+            "--device=dri",
+            "--socket=wayland",
+            "--talk-name=org.freedesktop.PowerManagement",
+            "--talk-name=org.freedesktop.Notifications",
+            "--talk-name=org.gnome.SessionManager",
+            "--filesystem=home",            
+            "--share=network"
+    ],
+    "modules": [
+    {
+        "name": "libglu",
+        "config-opts": [
+            "--enable-shared",
+            "--disable-static"
+        ],
+        "sources": [
+        {
+            "type": "archive",
+            "url": "https://mesa.freedesktop.org/archive/glu/glu-9.0.3.tar.bz2",
+            "sha256": "bd43fe12f374b1192eb15fe20e45ff456b9bc26ab57f0eee919f96ca0f8a330f"
+        }
+        ],
+        "cleanup": [
+            "/include",
+            "/lib/*.la",
+            "/lib/pkgconfig"
+        ]
+    },
+        {
+        "name": "wxWidgets",
+        "rm-configure": true,
+        "config-opts": [
+            "--with-gtk=3",
+            "--with-opengl", 
+            "--with-libjpeg", 
+            "--enable-monolithic",
+            "--with-libtiff",
+            "--with-libpng",
+            "--with-zlib",
+            "--disable-sdltest",
+            "--enable-unicode",
+            "--enable-display",
+            "--enable-propgrid",
+            "--disable-webkit",
+            "--disable-webview",
+            "--disable-webviewwebkit",
+            "--with-expat=builtin",
+            "--with-libiconv=/usr" ],
+        "build-options" : {
+            "cxxflags":"-std=c++0x"
+        },
+        "sources": [ 
+            {  
+                "type": "archive", 
+                "url": "https://github.com/wxWidgets/wxWidgets/releases/download/v3.0.3.1/wxWidgets-3.0.3.1.tar.bz2",
+                "sha256":"3164ad6bc5f61c48d2185b39065ddbe44283eb834a5f62beb13f1d0923e366e4" 
+            } 
+        ]
+        },
+    {
+        "name": "libfilezilla",
+        "sources": [
+            {
+                "type": "archive",
+                "url": "https://github.com/MintKing12/minthole/blob/main/libfilezilla-0.50.0.tar.xz",
+                "sha256": "6d99be1b5a47fbc68aaab83bcc483d84ad170a672eb648a226bf792356455177"
+            }
+        ]
+    },
+    {
+        "name": "filezilla",
+        "config-opts": [
+            "--with-pugixml=builtin"
+        ],
+        "sources": [
+            {
+                "type": "archive",
+                "url": "https://github.com/MintKing12/minthole/blob/main/FileZilla_3.68.1_src.tar.xz",
+                "sha256": "9df9209e29564ad92bcdee4a8ebe0e07648ef473028cdbde160f3d0612517679"
+            }
+        ]
+    }
+    ]
+}
