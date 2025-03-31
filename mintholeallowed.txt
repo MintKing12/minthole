@@ -2,14 +2,14 @@
 # Issue tracker: https://github.com/mintking12/minthole
 # Homepage: https://github.com/mintking12/minthole
 # Description: Allowed list
-# edited: March 21, 2025
+# edited: March 31, 2025
 #
 # Toestaan van alternatieve YT apps voor android
 #
 revancedapk.org
 revancedextended.com
 revancedapp.io
-revanced.net
+vanced.to
 #
 # Wat onschuldige Samsung domeinen
 #
