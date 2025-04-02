@@ -29,9 +29,10 @@ star-randsrv.bsg.brave.com
 collector.bsg.brave.com
 star.wdp.brave.com
 #
-# Micrososft notificaties op de telefoon toestaan
+# Micrososft domeinen
 #
 browser.events.data.microsoft.com
+mobile.pipe.aria.microsoft.com
 #
 # Algemene domeinen die voor overlast zorgen als ze geblokkeerd worden
 #
