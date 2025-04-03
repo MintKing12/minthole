@@ -2,7 +2,7 @@
 # Issue tracker: https://github.com/mintking12/minthole
 # Homepage: https://github.com/mintking12/minthole
 # Description: Blocklist
-# edited: April 2nd, '25 17:27h
+# edited: April 3th, '25 16:54h
 #
 # Block google spiders
 #
@@ -18,3 +18,4 @@
 0.0.0.0 googleonebackup-pa.googleapis.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 deviceintegritytokens-pa.googleapis.com
+0.0.0.0 securitydomain-pa.googleapis.com
