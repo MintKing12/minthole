@@ -5,19 +5,16 @@
 # edited: April 4th, 2025
 #
 # Toestaan van alternatieve YT apps voor android
-#
 revancedapk.org
 revancedextended.com
 revancedapp.io
 vanced.to
 #
 # Wat onschuldige Samsung domeinen
-#
 api.glb.samsung-gamelauncher.com
 sspapi-prd.samsungrs.com
 #
 # Toestaan van wat enkele domeinen voor de brave browser
-#
 usage-ping.brave.com
 variations.brave.com
 p3a-creative.brave.com
@@ -30,16 +27,13 @@ collector.bsg.brave.com
 star.wdp.brave.com
 #
 # Micrososft domeinen
-#
 browser.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
 #
-# Algemene domeinen die voor overlast zorgen als ze geblokkeerd worden
-#
 # Een belangrijk google domein
-#
 telephonyspamprotect-pa.googleapis.com
 #
+# Algemene domeinen die voor overlast zorgen als ze geblokkeerd worden
 cambridge.org
 tweakers.net
 safebrowsing.google.com
