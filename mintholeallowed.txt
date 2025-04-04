@@ -53,3 +53,4 @@ eu2.thunderhead.com
 ws.audioscrobbler.com
 broker.nxtid.nl
 mandrillapp.com
+slashdot.org
