@@ -21,3 +21,5 @@
 0.0.0.0 securitydomain-pa.googleapis.com
 0.0.0.0 playatoms-pa.googleapis.com
 0.0.0.0 firebaseremoteconfigrealtime.googleapis.com
+0.0.0.0 eu-auth2.samsungosp.com
+0.0.0.0 api.knox-matrix.com
