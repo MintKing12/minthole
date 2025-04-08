@@ -2,7 +2,7 @@
 # Issue tracker: https://github.com/mintking12/minthole
 # Homepage: https://github.com/mintking12/minthole
 # Description: Allowed list
-# edited: April 6th, 2025
+# Aangepast: 8 april '25
 #
 # Toestaan van alternatieve YT apps voor android
 revancedapk.org
@@ -54,3 +54,4 @@ ws.audioscrobbler.com
 broker.nxtid.nl
 mandrillapp.com
 slashdot.org
+drimble.nl
