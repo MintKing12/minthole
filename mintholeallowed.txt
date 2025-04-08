@@ -33,6 +33,14 @@ mobile.pipe.aria.microsoft.com
 # Een belangrijk google domein
 telephonyspamprotect-pa.googleapis.com
 #
+# Domeinen voor de Ecosia Zoekmachine
+ecosia.org
+syndicatedsearch.goog
+googlesyndication.com
+bing.com
+clarity.ms
+sdk.privacy-center.org
+#
 # Algemene domeinen die voor overlast zorgen als ze geblokkeerd worden
 cambridge.org
 tweakers.net
