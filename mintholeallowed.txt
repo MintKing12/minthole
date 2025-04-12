@@ -2,7 +2,7 @@
 # Issue tracker: https://github.com/mintking12/minthole
 # Homepage: https://github.com/mintking12/minthole
 # Description: Allowed list
-# Aangepast: 8 april '25
+# Aangepast: 12 april '25
 #
 # Toestaan van alternatieve YT apps voor android
 revancedapk.org
@@ -30,8 +30,9 @@ star.wdp.brave.com
 browser.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
 #
-# Een belangrijk google domein
+# Wat google domeinen
 telephonyspamprotect-pa.googleapis.com
+myphonenumbers-pa.googleapis.com
 #
 # Domeinen voor de Ecosia Zoekmachine
 ecosia.org
