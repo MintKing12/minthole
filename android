@@ -2,7 +2,7 @@
 # Issue tracker: https://github.com/mintking12/minthole
 # Homepage: https://github.com/mintking12/minthole
 # Description: Blocklist
-# edited: April 4th, '25 13:21h
+# edited: 13 april 2025 13:21h
 #
 # Block google spiders
 #
@@ -23,3 +23,4 @@
 0.0.0.0 firebaseremoteconfigrealtime.googleapis.com
 0.0.0.0 eu-auth2.samsungosp.com
 0.0.0.0 api.knox-matrix.com
+0.0.0.0 people-pa.googleapis.com
