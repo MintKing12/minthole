@@ -64,3 +64,5 @@ broker.nxtid.nl
 mandrillapp.com
 slashdot.org
 drimble.nl
+mail.orientalwebshop.nl
+interface.mailcampaigns.nl
