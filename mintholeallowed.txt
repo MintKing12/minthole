@@ -2,7 +2,7 @@
 # Issue tracker: https://github.com/mintking12/minthole
 # Homepage: https://github.com/mintking12/minthole
 # Description: Allowed list
-# Aangepast: 19 april '25
+# Aangepast: 5 mei '25
 #
 # Toestaan van alternatieve YT apps voor android
 revancedapk.org
@@ -72,5 +72,5 @@ widget-cdn.janraincapture.com
 ingesteer.services-prod.nsvcs.net
 cdn.optimizely.com
 cdn.speedcurve.com
-bitvavo.vom
+bitvavo.com
 
