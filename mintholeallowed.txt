@@ -73,4 +73,8 @@ ingesteer.services-prod.nsvcs.net
 cdn.optimizely.com
 cdn.speedcurve.com
 bitvavo.com
-
+events.launchdarkly.com
+app.launchdarkly.com
+e.infogram.com
+s.infogram.com
+cdn.jifo.co
