@@ -8,6 +8,10 @@
 #
 0.0.0.0 nu.nl
 0.0.0.0 www.nu.nl
+0.0.0.0 ad.nl
+0.0.0.0 www.ad.nl
+0.0.0.0 telegraaf.nl
+0.0.0.0 www.telegraaf.nl
 0.0.0.0 mediahuis.be
 0.0.0.0 shared.mediahuis.be
 0.0.0.0 cdn.btmessage.com
