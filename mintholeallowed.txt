@@ -2,7 +2,7 @@
 # Issue tracker: https://github.com/mintking12/minthole
 # Homepage: https://github.com/mintking12/minthole
 # Description: Allowed list
-# Aangepast: 5 mei '25
+# Aangepast: 25 mei '25
 #
 # Toestaan van alternatieve YT apps voor android
 revancedapk.org
@@ -13,6 +13,7 @@ vanced.to
 # Wat onschuldige Samsung domeinen
 api.glb.samsung-gamelauncher.com
 sspapi-prd.samsungrs.com
+eu-auth2.samsungosp.com
 #
 # Toestaan van wat enkele domeinen voor de brave browser
 usage-ping.brave.com
@@ -78,3 +79,4 @@ app.launchdarkly.com
 e.infogram.com
 s.infogram.com
 cdn.jifo.co
+geni.us
