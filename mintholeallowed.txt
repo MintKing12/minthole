@@ -11,12 +11,12 @@ revancedapp.io
 vanced.to
 revanced.to
 #
-# Wat onschuldige Samsung domeinen
+# Samsung domeinen
 api.glb.samsung-gamelauncher.com
 sspapi-prd.samsungrs.com
 eu-auth2.samsungosp.com
 #
-# Toestaan van wat enkele domeinen voor de brave browser
+# Brave domeinen
 usage-ping.brave.com
 variations.brave.com
 p3a-creative.brave.com
@@ -28,7 +28,7 @@ star-randsrv.bsg.brave.com
 collector.bsg.brave.com
 star.wdp.brave.com
 #
-# Micrososft domeinen
+# Microsoft domeinen
 browser.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
 #
@@ -36,7 +36,7 @@ mobile.pipe.aria.microsoft.com
 telephonyspamprotect-pa.googleapis.com
 myphonenumbers-pa.googleapis.com
 #
-# Domeinen voor de Ecosia Zoekmachine
+# Ecosia domeinen
 ecosia.org
 syndicatedsearch.goog
 googlesyndication.com
@@ -44,7 +44,7 @@ bing.com
 clarity.ms
 sdk.privacy-center.org
 #
-# Algemene domeinen die voor overlast zorgen als ze geblokkeerd worden
+# Algemene domeinen
 cambridge.org
 tweakers.net
 safebrowsing.google.com
