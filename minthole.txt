@@ -16,6 +16,8 @@
 0.0.0.0 www.nos.nl
 0.0.0.0 ed.nl
 0.0.0.0 www.ed.nl
+0.0.0.0 rtl.nl
+0.0.0.0 www.rtl.nl
 #
 # Block wat randmom meekijkers
 #
