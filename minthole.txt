@@ -20,6 +20,8 @@
 0.0.0.0 www.rtl.nl
 0.0.0.0 destentor.nl
 0.0.0.0 www.destentor.nl
+0.0.0.0 volkskrant.nl
+0.0.0.0 www.volkskrant.nl
 #
 # Block wat randmom meekijkers
 #
