@@ -2,12 +2,14 @@
 # Issue tracker: https://github.com/mintking12/minthole
 # Homepage: https://github.com/mintking12/minthole
 # Description: Blocklist
-# edited: 7 juni, '25
+# edited: 15 juni, '25
 #
 # Block DPG
 #
 0.0.0.0 nu.nl
 0.0.0.0 www.nu.nl
+0.0.0.0 telegraaf.nl
+0.0.0.0 www.telegraaf.nl
 #
 # Block wat randmom meekijkers
 #
