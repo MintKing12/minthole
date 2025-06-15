@@ -12,6 +12,8 @@
 0.0.0.0 www.telegraaf.nl
 0.0.0.0 ad.nl
 0.0.0.0 www.ad.nl
+0.0.0.0 nos.nl
+0.0.0.0 www.nos.nl
 #
 # Block wat randmom meekijkers
 #
