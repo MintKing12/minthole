@@ -8,20 +8,6 @@
 #
 0.0.0.0 nu.nl
 0.0.0.0 www.nu.nl
-0.0.0.0 telegraaf.nl
-0.0.0.0 www.telegraaf.nl
-0.0.0.0 ad.nl
-0.0.0.0 www.ad.nl
-0.0.0.0 nos.nl
-0.0.0.0 www.nos.nl
-0.0.0.0 ed.nl
-0.0.0.0 www.ed.nl
-0.0.0.0 rtl.nl
-0.0.0.0 www.rtl.nl
-0.0.0.0 destentor.nl
-0.0.0.0 www.destentor.nl
-0.0.0.0 volkskrant.nl
-0.0.0.0 www.volkskrant.nl
 #
 # Block wat randmom meekijkers
 #
