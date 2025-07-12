@@ -2,7 +2,7 @@
 # Issue tracker: https://github.com/mintking12/minthole
 # Homepage: https://github.com/mintking12/minthole
 # Description: Allowed list
-# Aangepast: 29 Juni '25
+# Aangepast: 12 juli '25
 #
 # Toestaan van alternatieve YT apps voor android
 revancedapk.org
@@ -84,3 +84,4 @@ cdn.jifo.co
 geni.us
 pornpics.com
 aax-eu.amazon.nl
+anydesk.com
