@@ -71,6 +71,7 @@ mail.orientalwebshop.nl
 interface.mailcampaigns.nl
 shop.app
 4chan.org
+www.4chan.org
 widget-cdn.janraincapture.com
 ingesteer.services-prod.nsvcs.net
 cdn.optimizely.com
@@ -85,3 +86,4 @@ geni.us
 pornpics.com
 aax-eu.amazon.nl
 anydesk.com
+www.anydesk.com
