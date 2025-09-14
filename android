@@ -2,7 +2,7 @@
 # Issue tracker: https://github.com/mintking12/minthole
 # Homepage: https://github.com/mintking12/minthole
 # Description: Blocklist
-# edited: 19-07-'25
+# edited: 14-09-'25
 #
 # Block google spiders
 #
@@ -25,3 +25,4 @@
 0.0.0.0 people-pa.googleapis.com
 0.0.0.0 android.clients.google.com
 0.0.0.0 instantmessaging-pa-jms-eu.googleapis.com
+0.0.0.0 places.googleapis.com
