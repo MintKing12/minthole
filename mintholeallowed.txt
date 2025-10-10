@@ -2,7 +2,7 @@
 # Issue tracker: https://github.com/mintking12/minthole
 # Homepage: https://github.com/mintking12/minthole
 # Description: Allowed list
-# Aangepast: 30-08-'25
+# Aangepast: 19-10-'25
 #
 # Toestaan van alternatieve YT apps voor android
 revancedapk.org
@@ -91,3 +91,8 @@ minepi.com
 sibforms.com
 d6tizftlrpuof.cloudfront.net
 indebuurt.nl
+#
+# ABN AMRO
+#
+abnamro.tt.omtrdc.net
+tags.tiqcdn.com
