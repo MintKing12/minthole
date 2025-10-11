@@ -2,7 +2,7 @@
 # Issue tracker: https://github.com/mintking12/minthole
 # Homepage: https://github.com/mintking12/minthole
 # Description: Blocklist
-# edited: 05 juli, '25  15:08uur
+# edited: 11-10-'25  15:08uur
 #
 # Block DPG
 #
@@ -20,3 +20,5 @@
 0.0.0.0 mijnodido.com
 0.0.0.0 www.mijnodido.com
 0.0.0.0 odido.simkaart-update.com
+0.0.0.0 www.nos.nl
+0.0.0.0 nos.nl
