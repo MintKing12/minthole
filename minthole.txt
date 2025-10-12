@@ -20,5 +20,3 @@
 0.0.0.0 mijnodido.com
 0.0.0.0 www.mijnodido.com
 0.0.0.0 odido.simkaart-update.com
-0.0.0.0 www.nos.nl
-0.0.0.0 nos.nl
