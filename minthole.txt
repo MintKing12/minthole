@@ -20,3 +20,6 @@
 0.0.0.0 mijnodido.com
 0.0.0.0 www.mijnodido.com
 0.0.0.0 odido.simkaart-update.com
+#
+0.0.0.0 www.telegraaf.nl
+0.0.0.0 telegraaf.nl
