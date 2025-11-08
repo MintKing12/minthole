@@ -36,6 +36,7 @@ mobile.pipe.aria.microsoft.com
 # Wat google domeinen
 telephonyspamprotect-pa.googleapis.com
 myphonenumbers-pa.googleapis.com
+connectivitycheck.gstatic.com
 #
 # Ecosia domeinen
 ecosia.org
