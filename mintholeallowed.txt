@@ -2,7 +2,7 @@
 # Issue tracker: https://github.com/mintking12/minthole
 # Homepage: https://github.com/mintking12/minthole
 # Description: Allowed list
-# Aangepast: 01-11-'25
+# Aangepast: 15-11-'25
 #
 # Toestaan van alternatieve YT apps voor android
 revancedapk.org
@@ -28,6 +28,7 @@ quorum.wdp.brave.com
 star-randsrv.bsg.brave.com
 collector.bsg.brave.com
 star.wdp.brave.com
+anonymous.ads.brave.com
 #
 # Microsoft domeinen
 browser.events.data.microsoft.com
