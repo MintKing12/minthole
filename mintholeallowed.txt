@@ -103,3 +103,13 @@ actionnetwork.org
 #
 abnamro.tt.omtrdc.net
 tags.tiqcdn.com
+#
+# Big Fish Games
+#
+policy.bigfishgames.com
+ureca.samsungapps.com
+api.leanplum.com
+logs.ads.vungle.com
+analytics-tcp.mintegral.net
+client.rave-api.com
+platform-lookaside.fbsbx.com
