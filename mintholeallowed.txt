@@ -2,7 +2,7 @@
 # Issue tracker: https://github.com/mintking12/minthole
 # Homepage: https://github.com/mintking12/minthole
 # Description: Allowed list
-# Aangepast: 05-12'25
+# Aangepast: 26-12'25
 #
 # Toestaan van alternatieve YT apps voor android
 revancedapk.org
@@ -46,58 +46,6 @@ googlesyndication.com
 bing.com
 clarity.ms
 sdk.privacy-center.org
-#
-# Algemene domeinen
-cambridge.org
-tweakers.net
-safebrowsing.google.com
-news.google.com
-bol.com
-surfshark.net
-discord.com
-bromite.org
-www.bromite.org
-click.edm.postnl.nl
-screenrant.com
-improving.duckduckgo.com
-display.ugc.bazaarvoice.com
-reddit.com
-rutracker.org
-eu2.thunderhead.com
-ws.audioscrobbler.com
-broker.nxtid.nl
-mandrillapp.com
-slashdot.org
-drimble.nl
-mail.orientalwebshop.nl
-interface.mailcampaigns.nl
-shop.app
-4chan.org
-www.4chan.org
-widget-cdn.janraincapture.com
-ingesteer.services-prod.nsvcs.net
-cdn.optimizely.com
-cdn.speedcurve.com
-bitvavo.com
-events.launchdarkly.com
-app.launchdarkly.com
-e.infogram.com
-s.infogram.com
-cdn.jifo.co
-geni.us
-pornpics.com
-aax-eu.amazon.nl
-anydesk.com
-www.anydesk.com
-minepi.com
-sibforms.com
-d6tizftlrpuof.cloudfront.net
-indebuurt.nl
-r.mailings.claimservice.nl
-whatismyipaddress.com
-shorturl.at
-mboxedge37.tt.omtrdc.net
-actionnetwork.org
 #
 # ABN AMRO
 #
