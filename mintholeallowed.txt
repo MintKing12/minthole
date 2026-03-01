@@ -2,7 +2,7 @@
 # Issue tracker: https://github.com/mintking12/minthole
 # Homepage: https://github.com/mintking12/minthole
 # Description: Allowed list
-# Aangepast: 26-12'25
+# Aangepast: 01-03-'26 12:20UUR
 #
 # Toestaan van alternatieve YT apps voor android
 revancedapk.org
@@ -62,6 +62,10 @@ analytics-tcp.mintegral.net
 client.rave-api.com
 platform-lookaside.fbsbx.com
 #
-# Wat willekeirige domeinen
+# Wat willekeurige domeinen
 #
 datawrapper.dwcdn.net
+sider.ai
+ogads-pa.clients6.google.com
+app.poperblocker.com
+api2.poperblocker.com
