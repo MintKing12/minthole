@@ -23,5 +23,3 @@
 #
 0.0.0.0 www.telegraaf.nl
 0.0.0.0 telegraaf.nl
-0.0.0.0 ad.nl
-0.0.0.0 www.ad.nl
