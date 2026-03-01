@@ -4,20 +4,23 @@
 # Description: Allowed list
 # Aangepast: 01-03-'26 12:20UUR
 #
-# Toestaan van alternatieve YT apps voor android
+# ReVanced & Vanced (Behouden voor updates en werking)
 revancedapk.org
 revancedextended.com
 revancedapp.io
 vanced.to
 revanced.to
 revanced.net
-#
-# Samsung domeinen
+
+# Samsung & Pixel 8 Specifieke Functies (Nodig voor systeemfuncties)
 api.glb.samsung-gamelauncher.com
 sspapi-prd.samsungrs.com
 eu-auth2.samsungosp.com
-#
-# Brave domeinen
+telephonyspamprotect-pa.googleapis.com
+myphonenumbers-pa.googleapis.com
+connectivitycheck.gstatic.com
+
+# Brave Browser (Nodig voor synchronisatie en browserfuncties)
 usage-ping.brave.com
 variations.brave.com
 p3a-creative.brave.com
@@ -29,43 +32,20 @@ star-randsrv.bsg.brave.com
 collector.bsg.brave.com
 star.wdp.brave.com
 anonymous.ads.brave.com
-#
-# Microsoft domeinen
+
+# Microsoft Telemetry (Vaak geblokkeerd, nodig voor sommige MS apps)
 browser.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
-#
-# Wat google domeinen
-telephonyspamprotect-pa.googleapis.com
-myphonenumbers-pa.googleapis.com
-connectivitycheck.gstatic.com
-#
-# Ecosia domeinen
-ecosia.org
-syndicatedsearch.goog
-googlesyndication.com
-bing.com
-clarity.ms
-sdk.privacy-center.org
-#
-# ABN AMRO
-#
+
+# Banken & Tools
 abnamro.tt.omtrdc.net
 tags.tiqcdn.com
-#
-# Big Fish Games
-#
-policy.bigfishgames.com
-ureca.samsungapps.com
-api.leanplum.com
-logs.ads.vungle.com
-analytics-tcp.mintegral.net
-client.rave-api.com
-platform-lookaside.fbsbx.com
-#
-# Wat willekeurige domeinen
-#
 datawrapper.dwcdn.net
 sider.ai
-ogads-pa.clients6.google.com
 app.poperblocker.com
 api2.poperblocker.com
+
+# Overig (Soms geblokkeerd door privacy-lijsten)
+platform-lookaside.fbsbx.com
+api.leanplum.com
+client.rave-api.com
