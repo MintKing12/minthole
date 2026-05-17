@@ -2,7 +2,7 @@
 # Issue tracker: https://github.com/mintking12/minthole
 # Homepage: https://github.com/mintking12/minthole
 # Description: Allowed list
-# Aangepast: 01-03-'26 12:20UUR
+# Aangepast: 17-05-'26 12:20UUR
 #
 # ReVanced & Vanced (Behouden voor updates en werking)
 revancedapk.org
@@ -19,6 +19,8 @@ eu-auth2.samsungosp.com
 telephonyspamprotect-pa.googleapis.com
 myphonenumbers-pa.googleapis.com
 connectivitycheck.gstatic.com
+region1.google-analytics.com
+ogads-pa.clients6.google.com
 
 # Brave Browser (Nodig voor synchronisatie en browserfuncties)
 usage-ping.brave.com
@@ -36,6 +38,7 @@ anonymous.ads.brave.com
 # Microsoft Telemetry (Vaak geblokkeerd, nodig voor sommige MS apps)
 browser.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
+m365cdn.nel.measure.office.net
 
 # Banken & Tools
 abnamro.tt.omtrdc.net
@@ -49,3 +52,5 @@ api2.poperblocker.com
 platform-lookaside.fbsbx.com
 api.leanplum.com
 client.rave-api.com
+exch.bolderman.nl
+aefd.nelreports.net
